@@ -1,1 +1,4 @@
 
+[submodule "tg"]
+	path = tg
+	url = git://github.com/SEEDTEAM/tg.git
